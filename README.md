@@ -1,3 +1,9 @@
+## Table of Contents
+
+- [Home](https://krishna-sriram.github.io/TCGABatchCorrectionsPVCA)
+- [Methods](https://krishna-sriram.github.io/TCGABatchCorrectionsPVCA/methods.md)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/krishna-sriram/TCGABatchCorrectionsPVCA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
