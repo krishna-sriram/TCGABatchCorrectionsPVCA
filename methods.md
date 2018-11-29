@@ -1,5 +1,5 @@
 ---
-layout: _config.yml
+theme: jekyll-theme-slate
 ---
 
 ## Methods
